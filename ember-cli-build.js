@@ -37,7 +37,7 @@ module.exports = function (defaults) {
         'learn',
         'learn/examples',
         'about/legal',
-        'logos',
+        'branding',
         'mascots',
         'security',
         'sponsors',
